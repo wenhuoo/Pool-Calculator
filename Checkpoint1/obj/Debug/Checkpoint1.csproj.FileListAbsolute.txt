@@ -1,0 +1,9 @@
+c:\users\owen\documents\visual studio 2015\Projects\Checkpoint1\Checkpoint1\bin\Debug\Checkpoint1.exe.config
+c:\users\owen\documents\visual studio 2015\Projects\Checkpoint1\Checkpoint1\bin\Debug\Checkpoint1.exe
+c:\users\owen\documents\visual studio 2015\Projects\Checkpoint1\Checkpoint1\bin\Debug\Checkpoint1.pdb
+c:\users\owen\documents\visual studio 2015\Projects\Checkpoint1\Checkpoint1\obj\Debug\Checkpoint1.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2015\Projects\Checkpoint1\Checkpoint1\obj\Debug\Checkpoint1.Properties.Resources.resources
+c:\users\owen\documents\visual studio 2015\Projects\Checkpoint1\Checkpoint1\obj\Debug\Checkpoint1.csproj.GenerateResource.Cache
+c:\users\owen\documents\visual studio 2015\Projects\Checkpoint1\Checkpoint1\obj\Debug\Checkpoint1.exe
+c:\users\owen\documents\visual studio 2015\Projects\Checkpoint1\Checkpoint1\obj\Debug\Checkpoint1.pdb
+c:\users\owen\documents\visual studio 2015\Projects\Checkpoint1\Checkpoint1\obj\Debug\Checkpoint1.PoolCalculator.resources
